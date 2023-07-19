@@ -1,4 +1,4 @@
-# Phase 1 Project
+# microsoft_movie_insights
 
 You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
 
@@ -6,15 +6,15 @@ You've made it all the way through the first phase of this course - take a minut
 
 Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
 
-## Project Overview
+## Big question: What movies should Mcrosoft invest in producing as part of its new streaming service venture?
 
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
+For this project, you will use exploratory data analysis to generate insights for a business stakehold
 
-### Business Problem
+## Process and tools used
 
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
-### The Data
+### Findings
 
 In the folder `zippedData` are movie datasets from:
 
